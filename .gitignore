@@ -4,8 +4,8 @@ node_modules/
 # Build output
 dist/
 
-# Environment variables
-.env
+# Environment variables (private repo — .env is committed intentionally)
+# .env
 .env.local
 .env.*.local
 
